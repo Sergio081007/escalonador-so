@@ -7,12 +7,12 @@ Prazo: **13/11/2026 às 23:59** (SIGAA). Hoje: 12/11/2026 — falta ~1 dia.
 - [x] Especificação lida e resumida em [`especificacao.md`](especificacao.md)
 - [x] Protótipo `escalonador.py` com FCFS, SJF (não preemptivo) e RR (q=2)
 - [x] Três casos de teste em `testes/` (`entradaN.txt` / `saidaN.txt`) — **todos passando**
-- [ ] Código e testes ainda **fora deste repositório** (estão na pasta pai do projeto)
+- [x] Código e testes dentro do repositório
 
 ## O que precisamos fazer
 
 ### 1. Organizar o repositório
-- [ ] Mover `escalonador.py` e a pasta `testes/` para dentro do repositório
+- [x] Mover `escalonador.py` e a pasta `testes/` para dentro do repositório
 - [ ] Atualizar o `README.md` da raiz com descrição curta e link para `docs/`
 - [ ] Adicionar `.gitignore` (`__pycache__/`, `*.pyc`, `*.zip`)
 
